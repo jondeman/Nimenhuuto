@@ -1,16 +1,15 @@
-# .github/workflows/nimenhuuto.yml
 name: Nimenhuuto-notifier
 
 on:
   schedule:
-    - cron: '0 5-21 * * *'      # käynnistyy tasatunnein 05–21 UTC
-  workflow_dispatch:            # käsin käynnistettävä
+    - cron: '0 5-21 * * *'      # klo 08–23 Helsingin aikaa (tunnin välein)
+  workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
 
-    env:                         # salaisuudet ympäristömuuttujiksi
+    env:
       NIMENHUUTO_USER:  ${{ secrets.NIMENHUUTO_USER }}
       NIMENHUUTO_PASS:  ${{ secrets.NIMENHUUTO_PASS }}
       TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
@@ -36,13 +35,11 @@ jobs:
       - name: Run notifier
         run: python main.py
 
-      # ----- Commit tilatiedostot + loki branchille -----
       - name: Commit state & log
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/events_seen.json state/app_run.log
-          # Commitoi vain jos jotain muuttui
+          git add state/base_events.json state/app_run.log
           if ! git diff --staged --quiet; then
             git commit -m "Update state & log $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push
