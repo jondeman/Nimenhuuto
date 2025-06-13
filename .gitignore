@@ -1,0 +1,5 @@
+.env
+events_seen.json
+base_events.json
+__pycache__/
+*.pyc
