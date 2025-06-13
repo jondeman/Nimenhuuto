@@ -1,9 +1,10 @@
 name: Nimenhuuto Bot
 
 on:
+  push:                        # Aja aina kun pusket koodia (hyvä testaukseen)
   schedule:
-    - cron: '0 6-21 * * *'    # UTC 6-21, eli klo 8-23 Suomen aikaa
-  workflow_dispatch:          # Voit ajaa myös käsin
+    - cron: '0 6-21 * * *'     # Joka tunti klo 8–23 Suomen aikaa (UTC 6–21)
+  workflow_dispatch:           # Salli manuaalinen ajo "Run workflow" -napista
 
 jobs:
   run-bot:
@@ -15,9 +16,16 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       SEEN_EVENTS_FILE: events_seen.json
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install -r requirements.txt
-      - run: python app/main.py
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Nimenhuuto bot
+        run: python app/main.py
