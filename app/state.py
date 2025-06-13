@@ -4,7 +4,13 @@ import os
 import json
 from config import SEEN_EVENTS_FILE
 
-BASE_EVENTS_FILE = "base_events.json"
+from pathlib import Path
+import os
+
+# Hae STATE_DIR ympäristömuuttujasta tai oletuksena nykyinen kansio
+STATE_DIR = Path(os.getenv("STATE_DIR", "."))
+STATE_DIR.mkdir(exist_ok=True)
+BASE_EVENTS_FILE = str(STATE_DIR / "base_events.json")
 
 
 def load_base_events(filename: str = BASE_EVENTS_FILE) -> dict:
