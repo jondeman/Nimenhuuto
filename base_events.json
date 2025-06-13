@@ -1,0 +1,618 @@
+[
+  {
+    "id": "18867608",
+    "name": "Kilpailu ·VC3",
+    "date": "2025-06-13",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273330",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-13",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273362",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-15",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "18913078",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-06-15",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "18913107",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-06-15",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273290",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-06-16",
+    "registered": 6,
+    "capacity": 7
+  },
+  {
+    "id": "19273247",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-06-16",
+    "registered": 6,
+    "capacity": 7
+  },
+  {
+    "id": "18912982",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-06-17",
+    "registered": 9,
+    "capacity": 11
+  },
+  {
+    "id": "19270752",
+    "name": "Muu ·Honkanummi talkoot",
+    "date": "2025-06-17",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19282617",
+    "name": "Tarkkuusammunta ·Töölöntori TA",
+    "date": "2025-06-18",
+    "registered": 7,
+    "capacity": 7
+  },
+  {
+    "id": "19307035",
+    "name": "Koulutus ·Ratavalvoja harjoittelijat",
+    "date": "2025-06-19",
+    "registered": 2,
+    "capacity": 2
+  },
+  {
+    "id": "19307019",
+    "name": "Tarkkuusammunta ·Wheelguns",
+    "date": "2025-06-19",
+    "registered": 1,
+    "capacity": 6
+  },
+  {
+    "id": "19307020",
+    "name": "Tarkkuusammunta ·Wheelguns",
+    "date": "2025-06-19",
+    "registered": 1,
+    "capacity": 6
+  },
+  {
+    "id": "18913053",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-06-19",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129500",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-06-19",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273331",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-20",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273291",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-06-23",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273248",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-06-23",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19277060",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-06-23",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19289634",
+    "name": "SRA ·SRA x TA",
+    "date": "2025-06-26",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129501",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-06-26",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273332",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-27",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273364",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-29",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273292",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-06-30",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273249",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-06-30",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19244753",
+    "name": "Tarkkuusammunta ·Merkintä 100 m",
+    "date": "2025-07-03",
+    "registered": 21,
+    "capacity": 40
+  },
+  {
+    "id": "19244763",
+    "name": "Tarkkuusammunta ·Merkintä monttu 4",
+    "date": "2025-07-03",
+    "registered": 6,
+    "capacity": 40
+  },
+  {
+    "id": "19244868",
+    "name": "Muu ·Merkintävalvoja",
+    "date": "2025-07-03",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19244870",
+    "name": "Muu ·Merkintävalvonta harjoittelu",
+    "date": "2025-07-03",
+    "registered": 2,
+    "capacity": 4
+  },
+  {
+    "id": "19129502",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-07-03",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273333",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-07-04",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "18890005",
+    "name": "Kilpailu ·VaRes 2GUN",
+    "date": "2025-07-05",
+    "registered": 2,
+    "capacity": 60
+  },
+  {
+    "id": "19273293",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-07",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273250",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-07",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19277062",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-07-07",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129503",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-07-10",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273334",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-07-11",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273366",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-07-13",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "18867610",
+    "name": "Kilpailu ·SRA SM",
+    "date": "2025-07-14",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273294",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-14",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273251",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-14",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129504",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-07-17",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273335",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-07-18",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273295",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-21",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273252",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-21",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19277064",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-07-21",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129505",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-07-24",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273336",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-07-25",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273368",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-07-27",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273296",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-28",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273253",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-28",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129506",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-07-31",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273337",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-01",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273297",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-08-04",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273254",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-08-04",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19277066",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-08-04",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129507",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-08-07",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273338",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-08",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273370",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-10",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273298",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-08-11",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273255",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-08-11",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19244805",
+    "name": "Tarkkuusammunta ·Merkintä 100 m",
+    "date": "2025-08-12",
+    "registered": 10,
+    "capacity": 40
+  },
+  {
+    "id": "19244823",
+    "name": "Tarkkuusammunta ·Merkintä monttu 4",
+    "date": "2025-08-12",
+    "registered": 1,
+    "capacity": 40
+  },
+  {
+    "id": "19244872",
+    "name": "SRA ·Merkintä valvoja",
+    "date": "2025-08-12",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19244873",
+    "name": "Muu ·Merkintävalvoja harjoittelu",
+    "date": "2025-08-12",
+    "registered": 0,
+    "capacity": 4
+  },
+  {
+    "id": "19129508",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-08-14",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273339",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-15",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273299",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-08-18",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273256",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-08-18",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19277068",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-08-18",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129509",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-08-21",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273340",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-22",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273372",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-24",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273300",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-08-25",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273257",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-08-25",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129510",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-08-28",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "18867613",
+    "name": "Kilpailu ·VC4",
+    "date": "2025-08-29",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "18890692",
+    "name": "Muu ·megamakkaramerkkarit",
+    "date": "2025-08-29",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273341",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-29",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273301",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-09-01",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273258",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-09-01",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19277070",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-09-01",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129511",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-09-04",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273342",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-09-05",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273374",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-09-07",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273302",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-09-08",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19273259",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-09-08",
+    "registered": 0,
+    "capacity": 0
+  },
+  {
+    "id": "19129512",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-09-11",
+    "registered": 0,
+    "capacity": 0
+  }
+]
