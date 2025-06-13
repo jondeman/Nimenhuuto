@@ -66,3 +66,48 @@
 2025-06-13 19:19:20,454 INFO: Noudettu 88 tapahtumaa
 2025-06-13 19:19:20,455 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-06-13 19:19:20,455 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-06-13 19:21:51,450 INFO: Ohjelma käynnistyi
+2025-06-13 19:21:51,451 INFO: Baselinessa 88 eventtiä
+2025-06-13 19:22:01,845 INFO: Noudettu 88 tapahtumaa
+2025-06-13 19:22:01,845 INFO: Notifikaatio: 19273290 open False→True tai registered 0→6, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Klondyke TA 2025-06-16” voi nyt ilmoittautua!
+2025-06-13 19:22:02,250 INFO: Viestin lähetys onnistui eventille 19273290
+2025-06-13 19:22:02,250 INFO: Notifikaatio: 18912982 open False→True tai registered 0→9, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·.22 Tikkurila 2025-06-17” voi nyt ilmoittautua!
+2025-06-13 19:22:02,620 INFO: Viestin lähetys onnistui eventille 18912982
+2025-06-13 19:22:02,620 INFO: Notifikaatio: 19270752 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “Muu ·Honkanummi talkoot 2025-06-17” voi nyt ilmoittautua!
+2025-06-13 19:22:02,934 INFO: Viestin lähetys onnistui eventille 19270752
+2025-06-13 19:22:02,934 INFO: Notifikaatio: 19307019 open False→True tai registered 0→1, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Wheelguns 2025-06-19” voi nyt ilmoittautua!
+2025-06-13 19:22:03,327 INFO: Viestin lähetys onnistui eventille 19307019
+2025-06-13 19:22:03,327 INFO: Notifikaatio: 19307020 open False→True tai registered 0→1, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Wheelguns 2025-06-19” voi nyt ilmoittautua!
+2025-06-13 19:22:03,648 INFO: Viestin lähetys onnistui eventille 19307020
+2025-06-13 19:22:03,649 INFO: Notifikaatio: 19277060 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·Veturivuoro 2025-06-23” voi nyt ilmoittautua!
+2025-06-13 19:22:03,964 INFO: Viestin lähetys onnistui eventille 19277060
+2025-06-13 19:22:03,965 INFO: Notifikaatio: 19244753 open False→True tai registered 0→21, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Merkintä 100 m 2025-07-03” voi nyt ilmoittautua!
+2025-06-13 19:22:04,352 INFO: Viestin lähetys onnistui eventille 19244753
+2025-06-13 19:22:04,352 INFO: Notifikaatio: 19244763 open False→True tai registered 0→6, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Merkintä monttu 4 2025-07-03” voi nyt ilmoittautua!
+2025-06-13 19:22:04,776 INFO: Viestin lähetys onnistui eventille 19244763
+2025-06-13 19:22:04,776 INFO: Notifikaatio: 19244868 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “Muu ·Merkintävalvoja 2025-07-03” voi nyt ilmoittautua!
+2025-06-13 19:22:05,309 INFO: Viestin lähetys onnistui eventille 19244868
+2025-06-13 19:22:05,309 INFO: Notifikaatio: 19244870 open False→True tai registered 0→2, viesti lähetetään: Nimenhuuto-eventtiin “Muu ·Merkintävalvonta harjoittelu 2025-07-03” voi nyt ilmoittautua!
+2025-06-13 19:22:05,648 INFO: Viestin lähetys onnistui eventille 19244870
+2025-06-13 19:22:05,648 INFO: Notifikaatio: 18890005 open False→True tai registered 0→2, viesti lähetetään: Nimenhuuto-eventtiin “Kilpailu ·VaRes 2GUN 2025-07-05” voi nyt ilmoittautua!
+2025-06-13 19:22:05,988 INFO: Viestin lähetys onnistui eventille 18890005
+2025-06-13 19:22:05,988 INFO: Notifikaatio: 19277062 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·Veturivuoro 2025-07-07” voi nyt ilmoittautua!
+2025-06-13 19:22:06,314 INFO: Viestin lähetys onnistui eventille 19277062
+2025-06-13 19:22:06,314 INFO: Notifikaatio: 19277064 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·Veturivuoro 2025-07-21” voi nyt ilmoittautua!
+2025-06-13 19:22:06,674 INFO: Viestin lähetys onnistui eventille 19277064
+2025-06-13 19:22:06,674 INFO: Notifikaatio: 19277066 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·Veturivuoro 2025-08-04” voi nyt ilmoittautua!
+2025-06-13 19:22:07,029 INFO: Viestin lähetys onnistui eventille 19277066
+2025-06-13 19:22:07,029 INFO: Notifikaatio: 19244805 open False→True tai registered 0→10, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Merkintä 100 m 2025-08-12” voi nyt ilmoittautua!
+2025-06-13 19:22:07,350 INFO: Viestin lähetys onnistui eventille 19244805
+2025-06-13 19:22:07,350 INFO: Notifikaatio: 19244823 open False→True tai registered 0→1, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Merkintä monttu 4 2025-08-12” voi nyt ilmoittautua!
+2025-06-13 19:22:07,669 INFO: Viestin lähetys onnistui eventille 19244823
+2025-06-13 19:22:07,669 INFO: Notifikaatio: 19244872 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·Merkintä valvoja 2025-08-12” voi nyt ilmoittautua!
+2025-06-13 19:22:07,986 INFO: Viestin lähetys onnistui eventille 19244872
+2025-06-13 19:22:07,986 INFO: Notifikaatio: 19244873 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “Muu ·Merkintävalvoja harjoittelu 2025-08-12” voi nyt ilmoittautua!
+2025-06-13 19:22:08,301 INFO: Viestin lähetys onnistui eventille 19244873
+2025-06-13 19:22:08,301 INFO: Notifikaatio: 19277068 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·Veturivuoro 2025-08-18” voi nyt ilmoittautua!
+2025-06-13 19:22:08,619 INFO: Viestin lähetys onnistui eventille 19277068
+2025-06-13 19:22:08,619 INFO: Notifikaatio: 19277070 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·Veturivuoro 2025-09-01” voi nyt ilmoittautua!
+2025-06-13 19:22:09,007 INFO: Viestin lähetys onnistui eventille 19277070
+2025-06-13 19:22:09,008 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 20. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-06-13 19:22:09,008 INFO: Lähetettyjä notifikaatioita: 20 kpl.
