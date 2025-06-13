@@ -55,12 +55,33 @@ def parse_event_div(div) -> dict:
         registered = 0
         capacity = 0
 
+    # Luotettava ilmoittautumisstatuslogiikka
+    enroll_buttons_div = div.find('div', class_='enroll-buttons')
+    open_for_registration = False  # Oletus: kiinni
+    if enroll_buttons_div:
+        enroll_btn = enroll_buttons_div.select_one('a.btn-in')  # CSS selector, luokkajärjestys ei väliä
+        print('ENROLL BUTTON:', enroll_btn)  # DEBUG
+        if enroll_btn:
+            title = enroll_btn.get('title', '')
+            data_disabled = enroll_btn.get('data-disabled', 'false')
+            print(f'TITLE: {title}, DATA_DISABLED: {data_disabled}')  # DEBUG
+            if (
+                'Tapahtumaan ei pysty ilmoittautumaan' not in title
+                and data_disabled != 'true'
+            ):
+                open_for_registration = True
+        else:
+            print('No btn-in button found in:', enroll_buttons_div)  # DEBUG
+    else:
+        print('No enroll-buttons div found in event:', div)  # DEBUG
+
     return {
         'id': event_id,
         'name': name,
         'date': date,
         'registered': registered,
         'capacity': capacity,
+        'open': open_for_registration,
     }
 
 
