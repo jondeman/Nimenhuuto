@@ -58,13 +58,15 @@ def main():
             continue
             updated[event_id] = ev
             continue
-        # Lähetä notifikaatio VAIN kun registered muuttuu 0 -> X (X>0)
+        # Lähetä notifikaatio kun open muuttuu False -> True TAI registered 0 -> X (X>0)
+        old_open = old_event.get('open', False)
+        new_open = ev.get('open', False)
         old_registered = old_event.get('registered', 0)
         new_registered = ev['registered']
-        if old_registered == 0 and new_registered > 0:
+        if (not old_open and new_open) or (old_registered == 0 and new_registered > 0):
             status_changed += 1
-            msg = f"Nimenhuuto-eventtiin “{ev['name']} {ev['date'].strftime('%-d.%m.%Y') if ev['date'] else ''}” voi nyt ilmoittautua!"
-            logger.info(f"Notifikaatio: {event_id} registered 0→{new_registered}, viesti lähetetään: {msg}")
+            msg = f"Nimenhuuto-eventtiin “{ev['name']} {ev['date']}” voi nyt ilmoittautua!"
+            logger.info(f"Notifikaatio: {event_id} open False→True tai registered 0→{new_registered}, viesti lähetetään: {msg}")
             try:
                 notify_event_open(ev)
                 logger.info(f"Viestin lähetys onnistui eventille {event_id}")
