@@ -2,7 +2,7 @@ name: Nimenhuuto-notifier
 
 on:
   schedule:
-    - cron: '0 5-21 * * *'      # klo 08–23 Helsingin aikaa (tunnin välein)
+    - cron: '0 5-21 * * *'      # Klo 8-23 Suomen aikaa
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
       NIMENHUUTO_PASS:  ${{ secrets.NIMENHUUTO_PASS }}
       TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      STATE_DIR:        ${{ github.workspace }}/state
+      STATE_DIR:        ${{ github.workspace }}/app/state
 
     steps:
       - uses: actions/checkout@v4
@@ -30,16 +30,16 @@ jobs:
           pip install -r requirements.txt
 
       - name: Ensure state dir exists
-        run: mkdir -p state
+        run: mkdir -p app/state
 
       - name: Run notifier
-        run: python main.py
+        run: python app/main.py
 
       - name: Commit state & log
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/base_events.json state/app_run.log
+          git add app/state/base_events.json app/state/app_run.log
           if ! git diff --staged --quiet; then
             git commit -m "Update state & log $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push
