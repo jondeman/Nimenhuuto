@@ -1,1 +1,23 @@
+name: Nimenhuuto Bot
 
+on:
+  schedule:
+    - cron: '0 6-21 * * *'    # UTC 6-21, eli klo 8-23 Suomen aikaa
+  workflow_dispatch:          # Voit ajaa myös käsin
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    env:
+      NIMENHUUTO_USER: ${{ secrets.NIMENHUUTO_USER }}
+      NIMENHUUTO_PASS: ${{ secrets.NIMENHUUTO_PASS }}
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      SEEN_EVENTS_FILE: events_seen.json
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python app/main.py
