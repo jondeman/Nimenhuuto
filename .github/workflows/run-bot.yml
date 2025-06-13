@@ -2,8 +2,8 @@ name: Nimenhuuto-notifier
 
 on:
   schedule:
-    - cron: '0 5-21 * * *'      # Klo 8-23 Suomen aikaa
-  workflow_dispatch:
+    - cron: '0 5-21 * * *'      # klo 8–23 Suomen aikaa (tunnin välein UTC 5–21)
+  workflow_dispatch:            # mahdollistaa käsin käynnistyksen
 
 jobs:
   run:
@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add app/state/base_events.json app/state/app_run.log
+          git add base_events.json app/state/app_run.log
           if ! git diff --staged --quiet; then
             git commit -m "Update state & log $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push
