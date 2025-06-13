@@ -1,21 +1,5 @@
 [
   {
-    "id": "18867608",
-    "name": "Kilpailu ·VC3",
-    "date": "2025-06-13",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19273330",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-06-13",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "19273362",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-06-15",
@@ -59,7 +43,7 @@
     "id": "18912982",
     "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-06-17",
-    "registered": 9,
+    "registered": 10,
     "capacity": 11,
     "open": true
   },
@@ -69,6 +53,14 @@
     "date": "2025-06-17",
     "registered": 0,
     "capacity": 0,
+    "open": true
+  },
+  {
+    "id": "19316859",
+    "name": "Tarkkuusammunta ·Hälvälä 300m",
+    "date": "2025-06-17",
+    "registered": 2,
+    "capacity": 6,
     "open": true
   },
   {
@@ -699,6 +691,30 @@
     "id": "19129512",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-09-11",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273343",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-09-12",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "18867608",
+    "name": "Kilpailu ·VC3",
+    "date": "2025-06-13",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273330",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-13",
     "registered": 0,
     "capacity": 0,
     "open": false
