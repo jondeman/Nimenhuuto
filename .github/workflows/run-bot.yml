@@ -1,7 +1,6 @@
 name: Nimenhuuto Bot
 
 on:
-  push:                        # Aja aina kun pusket koodia (hyvä testaukseen)
   schedule:
     - cron: '0 6-21 * * *'     # Joka tunti klo 8–23 Suomen aikaa (UTC 6–21)
   workflow_dispatch:           # Salli manuaalinen ajo "Run workflow" -napista
