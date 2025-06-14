@@ -59,7 +59,7 @@
     "id": "19316859",
     "name": "Tarkkuusammunta ·Hälvälä 300m",
     "date": "2025-06-17",
-    "registered": 2,
+    "registered": 4,
     "capacity": 6,
     "open": true
   },
@@ -699,22 +699,6 @@
     "id": "19273343",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-09-12",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "18867608",
-    "name": "Kilpailu ·VC3",
-    "date": "2025-06-13",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19273330",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-06-13",
     "registered": 0,
     "capacity": 0,
     "open": false
