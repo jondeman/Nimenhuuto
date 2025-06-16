@@ -19,9 +19,9 @@
     "id": "18912982",
     "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-06-17",
-    "registered": 11,
+    "registered": 10,
     "capacity": 11,
-    "open": false
+    "open": true
   },
   {
     "id": "19270752",
@@ -678,30 +678,6 @@
     "registered": 8,
     "capacity": 40,
     "open": true
-  },
-  {
-    "id": "19273362",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-06-15",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "18913078",
-    "name": "Tarkkuusammunta ·.22 Tikkurila",
-    "date": "2025-06-15",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "18913107",
-    "name": "Tarkkuusammunta ·.22 Tikkurila",
-    "date": "2025-06-15",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
   },
   {
     "id": "19129501",

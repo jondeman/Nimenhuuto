@@ -307,3 +307,10 @@
 2025-06-15 21:21:19,459 INFO: Uusi eventti: 19244834 (Tarkkuusammunta ·Merkintä monttu 7) lisätään baselineen
 2025-06-15 21:21:19,460 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 2.
 2025-06-15 21:21:19,460 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-06-16 05:26:08,426 INFO: Ohjelma käynnistyi
+2025-06-16 05:26:08,426 INFO: Baselinessa 90 eventtiä
+2025-06-16 05:26:18,267 INFO: Noudettu 85 tapahtumaa
+2025-06-16 05:26:18,267 INFO: Notifikaatio: 18912982 open False→True tai registered 0→10, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·.22 Tikkurila 2025-06-17” voi nyt ilmoittautua!
+2025-06-16 05:26:18,895 INFO: Viestin lähetys onnistui eventille 18912982
+2025-06-16 05:26:18,896 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 1. Poistettu 3 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-06-16 05:26:18,896 INFO: Lähetettyjä notifikaatioita: 1 kpl.
