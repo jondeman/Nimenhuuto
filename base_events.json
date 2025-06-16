@@ -19,9 +19,9 @@
     "id": "18912982",
     "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-06-17",
-    "registered": 11,
+    "registered": 10,
     "capacity": 11,
-    "open": false
+    "open": true
   },
   {
     "id": "19270752",
@@ -123,9 +123,9 @@
     "id": "19289634",
     "name": "SRA ·SRA-harjoitus (kivääri, omat aseet)",
     "date": "2025-06-26",
-    "registered": 6,
+    "registered": 7,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19273332",
@@ -451,7 +451,7 @@
     "id": "19244823",
     "name": "Tarkkuusammunta ·Merkintä monttu 4",
     "date": "2025-08-12",
-    "registered": 1,
+    "registered": 2,
     "capacity": 40,
     "open": true
   },
