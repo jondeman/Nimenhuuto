@@ -1,21 +1,5 @@
 [
   {
-    "id": "19273290",
-    "name": "Tarkkuusammunta ·Klondyke TA",
-    "date": "2025-06-16",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19273247",
-    "name": "Tarkkuusammunta ·Klondyke TA",
-    "date": "2025-06-16",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
     "id": "18912982",
     "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-06-17",
@@ -678,6 +662,46 @@
     "registered": 8,
     "capacity": 40,
     "open": true
+  },
+  {
+    "id": "19273303",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-09-15",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273260",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-09-15",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19277072",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-09-15",
+    "registered": 0,
+    "capacity": 0,
+    "open": true
+  },
+  {
+    "id": "19273290",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-06-16",
+    "registered": 7,
+    "capacity": 7,
+    "open": false
+  },
+  {
+    "id": "19273247",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-06-16",
+    "registered": 7,
+    "capacity": 7,
+    "open": false
   },
   {
     "id": "19129501",
