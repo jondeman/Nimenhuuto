@@ -314,3 +314,10 @@
 2025-06-16 05:26:18,895 INFO: Viestin lähetys onnistui eventille 18912982
 2025-06-16 05:26:18,896 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 1. Poistettu 3 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-06-16 05:26:18,896 INFO: Lähetettyjä notifikaatioita: 1 kpl.
+2025-06-16 06:37:13,952 INFO: Ohjelma käynnistyi
+2025-06-16 06:37:13,952 INFO: Baselinessa 87 eventtiä
+2025-06-16 06:37:25,227 INFO: Noudettu 85 tapahtumaa
+2025-06-16 06:37:25,227 INFO: Notifikaatio: 19289634 open False→True tai registered 0→1, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·SRA-harjoitus (kivääri, omat aseet) 2025-06-26” voi nyt ilmoittautua!
+2025-06-16 06:37:25,730 INFO: Viestin lähetys onnistui eventille 19289634
+2025-06-16 06:37:25,731 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 1. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-06-16 06:37:25,731 INFO: Lähetettyjä notifikaatioita: 1 kpl.
