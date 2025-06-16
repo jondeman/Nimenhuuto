@@ -19,9 +19,9 @@
     "id": "18912982",
     "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-06-17",
-    "registered": 10,
+    "registered": 11,
     "capacity": 11,
-    "open": true
+    "open": false
   },
   {
     "id": "19270752",
@@ -59,7 +59,7 @@
     "id": "19307019",
     "name": "Tarkkuusammunta ·Wheelguns",
     "date": "2025-06-19",
-    "registered": 1,
+    "registered": 2,
     "capacity": 6,
     "open": true
   },
@@ -123,7 +123,7 @@
     "id": "19289634",
     "name": "SRA ·SRA-harjoitus (kivääri, omat aseet)",
     "date": "2025-06-26",
-    "registered": 5,
+    "registered": 6,
     "capacity": 7,
     "open": true
   },
