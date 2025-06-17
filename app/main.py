@@ -64,14 +64,20 @@ def main():
         old_registered = old_event.get('registered', 0)
         new_registered = ev['registered']
         if (not old_open and new_open) or (old_registered == 0 and new_registered > 0):
-            status_changed += 1
-            msg = f"Nimenhuuto-eventtiin “{ev['name']} {ev['date']}” voi nyt ilmoittautua!"
-            logger.info(f"Notifikaatio: {event_id} open False→True tai registered 0→{new_registered}, viesti lähetetään: {msg}")
-            try:
-                notify_event_open(ev)
-                logger.info(f"Viestin lähetys onnistui eventille {event_id}")
-            except Exception as e:
-                logger.error(f"Notifikaation lähetys epäonnistui ({event_id}): {e}")
+            # UUSI EHTO: jos osallistujia on jo yli 60% kapasiteetista, EI lähetetä notifikaatiota
+            cap = ev.get('capacity', 0)
+            reg = ev.get('registered', 0)
+            if cap > 0 and reg > 0 and reg / cap > 0.6:
+                logger.info(f"Notifikaatiota EI lähetetä eventille {event_id}, koska osallistujia jo yli 60% kapasiteetista ({reg}/{cap})")
+            else:
+                status_changed += 1
+                msg = f"Nimenhuuto-eventtiin “{ev['name']} {ev['date']}” voi nyt ilmoittautua!"
+                logger.info(f"Notifikaatio: {event_id} open False→True tai registered 0→{new_registered}, viesti lähetetään: {msg}")
+                try:
+                    notify_event_open(ev)
+                    logger.info(f"Viestin lähetys onnistui eventille {event_id}")
+                except Exception as e:
+                    logger.error(f"Notifikaation lähetys epäonnistui ({event_id}): {e}")
         updated[event_id] = ev
 
     # Lisää baselineen mahdolliset vanhat eventit, joita ei enää löydy (ei häviä tietoa)
