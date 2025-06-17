@@ -457,3 +457,12 @@
 2025-06-17 12:34:14,993 INFO: Viestin lähetys onnistui eventille 19244763
 2025-06-17 12:34:14,994 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 1. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-06-17 12:34:14,994 INFO: Lähetettyjä notifikaatioita: 1 kpl.
+2025-06-17 12:41:31,862 INFO: Ohjelma käynnistyi
+2025-06-17 12:41:31,862 INFO: Baselinessa 88 eventtiä
+2025-06-17 12:41:42,152 INFO: Noudettu 86 tapahtumaa
+2025-06-17 12:41:42,152 INFO: Notifikaatio: 19307020 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Wheelguns 2025-06-19” voi nyt ilmoittautua!
+2025-06-17 12:41:42,846 INFO: Viestin lähetys onnistui eventille 19307020
+2025-06-17 12:41:42,846 INFO: Notifikaatiota EI lähetetä eventille 19273291, koska osallistujia jo yli 60% kapasiteetista (1/1)
+2025-06-17 12:41:42,846 INFO: Notifikaatiota EI lähetetä eventille 19273248, koska osallistujia jo yli 60% kapasiteetista (1/1)
+2025-06-17 12:41:42,847 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 1. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-06-17 12:41:42,847 INFO: Lähetettyjä notifikaatioita: 1 kpl.
