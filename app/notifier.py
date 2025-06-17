@@ -33,7 +33,9 @@ def notify_event_open(event):
         date_str = ''
     reg = event.get('registered', 0)
     cap = event.get('capacity', 0)
-    message = f"Nimenhuuto-eventtiin “{name} {date_str}” voi nyt ilmoittautua! Ilmoittautuneita: {reg}/{cap}"
+    event_id = event.get('id')
+    event_url = f"https://vantaanreservilaiset.nimenhuuto.com/events/{event_id}" if event_id else ""
+    message = f"Nimenhuuto-eventtiin “{name} {date_str}” voi nyt ilmoittautua! Ilmoittautuneita: {reg}/{cap}\n{event_url}"
     # Lähetetään viesti sekä käyttäjälle että kanavalle
     send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, message)
     send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHANNEL_ID, message)
