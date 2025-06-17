@@ -11,6 +11,7 @@ NIMENHUUTO_PASS = os.getenv("NIMENHUUTO_PASS")
 # Telegram credentials
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
 
 # Comma-separated list of recipient phone numbers in international format
 RECIPIENTS = os.getenv("RECIPIENTS", "").split(",")
