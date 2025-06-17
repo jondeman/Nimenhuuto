@@ -1,5 +1,5 @@
 import requests
-from config import TELEGRAM_TOKEN, TELEGRAM_CHAT_ID
+from config import TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, TELEGRAM_CHANNEL_ID
 
 TELEGRAM_API_URL = "https://api.telegram.org/bot"
 
@@ -34,4 +34,6 @@ def notify_event_open(event):
     reg = event.get('registered', 0)
     cap = event.get('capacity', 0)
     message = f"Nimenhuuto-eventtiin “{name} {date_str}” voi nyt ilmoittautua! Ilmoittautuneita: {reg}/{cap}"
+    # Lähetetään viesti sekä käyttäjälle että kanavalle
     send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, message)
+    send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHANNEL_ID, message)
