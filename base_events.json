@@ -1,13 +1,5 @@
 [
   {
-    "id": "19282617",
-    "name": "Tarkkuusammunta ·Töölöntori TA",
-    "date": "2025-06-18",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
     "id": "19307035",
     "name": "Koulutus ·Ratavalvoja harjoittelijat",
     "date": "2025-06-19",
@@ -59,7 +51,7 @@
     "id": "19273291",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-06-23",
-    "registered": 5,
+    "registered": 6,
     "capacity": 8,
     "open": true
   },
@@ -670,6 +662,14 @@
     "registered": 0,
     "capacity": 0,
     "open": true
+  },
+  {
+    "id": "19282617",
+    "name": "Tarkkuusammunta ·Töölöntori TA",
+    "date": "2025-06-18",
+    "registered": 7,
+    "capacity": 7,
+    "open": false
   },
   {
     "id": "19129501",
