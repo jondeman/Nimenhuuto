@@ -51,9 +51,9 @@
     "id": "19273291",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-06-23",
-    "registered": 6,
+    "registered": 8,
     "capacity": 8,
-    "open": true
+    "open": false
   },
   {
     "id": "19273248",
@@ -662,14 +662,6 @@
     "registered": 0,
     "capacity": 0,
     "open": true
-  },
-  {
-    "id": "19282617",
-    "name": "Tarkkuusammunta ·Töölöntori TA",
-    "date": "2025-06-18",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
   },
   {
     "id": "19129501",
