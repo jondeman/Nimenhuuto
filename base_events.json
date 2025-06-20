@@ -19,9 +19,9 @@
     "id": "19273248",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-06-23",
-    "registered": 6,
+    "registered": 7,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19277060",
@@ -629,46 +629,6 @@
     "date": "2025-09-18",
     "registered": 0,
     "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19307035",
-    "name": "Koulutus ·Ratavalvoja harjoittelijat",
-    "date": "2025-06-19",
-    "registered": 2,
-    "capacity": 2,
-    "open": false
-  },
-  {
-    "id": "19307019",
-    "name": "Tarkkuusammunta ·Wheelguns",
-    "date": "2025-06-19",
-    "registered": 3,
-    "capacity": 6,
-    "open": false
-  },
-  {
-    "id": "19307020",
-    "name": "Tarkkuusammunta ·Wheelguns",
-    "date": "2025-06-19",
-    "registered": 0,
-    "capacity": 6,
-    "open": false
-  },
-  {
-    "id": "18913053",
-    "name": "Tarkkuusammunta ·.22 Tikkurila",
-    "date": "2025-06-19",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19129500",
-    "name": "SRA ·SRA-treenit miniriflellä, HUOM! Klo18",
-    "date": "2025-06-19",
-    "registered": 4,
-    "capacity": 7,
     "open": false
   },
   {
