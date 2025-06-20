@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273331",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-06-20",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "19273291",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-06-23",
@@ -627,6 +619,30 @@
     "id": "19129513",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-09-18",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273344",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-09-19",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273376",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-09-21",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273331",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-20",
     "registered": 0,
     "capacity": 0,
     "open": false
