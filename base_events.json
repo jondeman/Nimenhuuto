@@ -3,9 +3,9 @@
     "id": "19324340",
     "name": "Muu ·IDPA T1 viikkokisat Lopella (omat aseet)",
     "date": "2025-06-25",
-    "registered": 10,
+    "registered": 9,
     "capacity": 10,
-    "open": false
+    "open": true
   },
   {
     "id": "19289634",
@@ -51,9 +51,9 @@
     "id": "19333864",
     "name": "Tarkkuusammunta ·Töölöntori - TA",
     "date": "2025-07-02",
-    "registered": 6,
+    "registered": 7,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19244753",
@@ -638,30 +638,6 @@
     "registered": 0,
     "capacity": 0,
     "open": false
-  },
-  {
-    "id": "19273291",
-    "name": "Tarkkuusammunta ·Klondyke TA",
-    "date": "2025-06-23",
-    "registered": 8,
-    "capacity": 8,
-    "open": false
-  },
-  {
-    "id": "19273248",
-    "name": "Tarkkuusammunta ·Klondyke TA",
-    "date": "2025-06-23",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19277060",
-    "name": "SRA ·Veturivuoro",
-    "date": "2025-06-23",
-    "registered": 0,
-    "capacity": 0,
-    "open": true
   },
   {
     "id": "19129501",
