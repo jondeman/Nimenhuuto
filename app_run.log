@@ -1254,3 +1254,12 @@
 2025-06-26 11:21:16,323 INFO: Noudettu 79 tapahtumaa
 2025-06-26 11:21:16,324 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-06-26 11:21:16,324 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-06-26 12:51:58,291 INFO: Ohjelma käynnistyi
+2025-06-26 12:51:58,291 INFO: Baselinessa 81 eventtiä
+2025-06-26 12:52:08,450 INFO: Noudettu 79 tapahtumaa
+2025-06-26 12:52:08,450 INFO: Notifikaatio: 19273292 open False→True tai registered 0→4, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa 2025-06-30” voi nyt ilmoittautua!
+2025-06-26 12:52:09,513 INFO: Viestin lähetys onnistui eventille 19273292
+2025-06-26 12:52:09,513 INFO: Notifikaatio: 19273249 open False→True tai registered 0→2, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa 2025-06-30” voi nyt ilmoittautua!
+2025-06-26 12:52:10,532 INFO: Viestin lähetys onnistui eventille 19273249
+2025-06-26 12:52:10,533 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 2. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-06-26 12:52:10,533 INFO: Lähetettyjä notifikaatioita: 2 kpl.
