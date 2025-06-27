@@ -27,7 +27,7 @@
     "id": "19273249",
     "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
     "date": "2025-06-30",
-    "registered": 2,
+    "registered": 4,
     "capacity": 8,
     "open": true
   },
@@ -627,22 +627,6 @@
     "id": "19129514",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-09-25",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19289634",
-    "name": "SRA ·SRA-harjoitus (kivääri, omat aseet)",
-    "date": "2025-06-26",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19129501",
-    "name": "SRA ·SRA-treenit miniriflellä",
-    "date": "2025-06-26",
     "registered": 0,
     "capacity": 0,
     "open": false
