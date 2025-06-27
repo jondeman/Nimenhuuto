@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273332",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-06-27",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "19273364",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-06-29",
@@ -627,6 +619,38 @@
     "id": "19129514",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-09-25",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "18867614",
+    "name": "Kilpailu ·VC5",
+    "date": "2025-09-26",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19231393",
+    "name": "Kilpailu ·ReSul syysjotos - PILKE 25",
+    "date": "2025-09-26",
+    "registered": 0,
+    "capacity": 0,
+    "open": true
+  },
+  {
+    "id": "19273345",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-09-26",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273332",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-27",
     "registered": 0,
     "capacity": 0,
     "open": false
