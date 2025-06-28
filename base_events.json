@@ -11,9 +11,9 @@
     "id": "19273292",
     "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
     "date": "2025-06-30",
-    "registered": 7,
+    "registered": 8,
     "capacity": 8,
-    "open": true
+    "open": false
   },
   {
     "id": "19273249",
@@ -35,9 +35,9 @@
     "id": "19333864",
     "name": "Tarkkuusammunta ·Töölöntori - TA",
     "date": "2025-07-02",
-    "registered": 6,
+    "registered": 7,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19244753",
