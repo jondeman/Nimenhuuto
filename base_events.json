@@ -24,6 +24,14 @@
     "open": false
   },
   {
+    "id": "19345335",
+    "name": "Tarkkuusammunta ·Hälvälä 300m",
+    "date": "2025-07-01",
+    "registered": 1,
+    "capacity": 6,
+    "open": true
+  },
+  {
     "id": "19333864",
     "name": "Tarkkuusammunta ·Töölöntori - TA",
     "date": "2025-07-02",
@@ -643,14 +651,6 @@
     "id": "19273345",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-09-26",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19273332",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-06-27",
     "registered": 0,
     "capacity": 0,
     "open": false
