@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273364",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-06-29",
-    "registered": 10,
-    "capacity": 10,
-    "open": false
-  },
-  {
     "id": "19273292",
     "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
     "date": "2025-06-30",
@@ -653,6 +645,14 @@
     "date": "2025-09-26",
     "registered": 0,
     "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273364",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-06-29",
+    "registered": 10,
+    "capacity": 10,
     "open": false
   },
   {
