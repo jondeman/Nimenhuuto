@@ -1,21 +1,5 @@
 [
   {
-    "id": "19273292",
-    "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
-    "date": "2025-06-30",
-    "registered": 8,
-    "capacity": 8,
-    "open": false
-  },
-  {
-    "id": "19273249",
-    "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
-    "date": "2025-06-30",
-    "registered": 8,
-    "capacity": 8,
-    "open": false
-  },
-  {
     "id": "19345335",
     "name": "Tarkkuusammunta ·Hälvälä 300m",
     "date": "2025-07-01",
@@ -645,6 +629,46 @@
     "date": "2025-09-26",
     "registered": 0,
     "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273305",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-09-29",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273262",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-09-29",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19277074",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-09-29",
+    "registered": 0,
+    "capacity": 0,
+    "open": true
+  },
+  {
+    "id": "19273292",
+    "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
+    "date": "2025-06-30",
+    "registered": 8,
+    "capacity": 8,
+    "open": false
+  },
+  {
+    "id": "19273249",
+    "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
+    "date": "2025-06-30",
+    "registered": 8,
+    "capacity": 8,
     "open": false
   },
   {
