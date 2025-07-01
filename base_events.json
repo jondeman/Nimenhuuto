@@ -19,7 +19,7 @@
     "id": "19244753",
     "name": "Tarkkuusammunta ·Merkintä 100 m",
     "date": "2025-07-03",
-    "registered": 39,
+    "registered": 38,
     "capacity": 40,
     "open": false
   },
@@ -654,22 +654,6 @@
     "registered": 0,
     "capacity": 0,
     "open": true
-  },
-  {
-    "id": "19273292",
-    "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
-    "date": "2025-06-30",
-    "registered": 8,
-    "capacity": 8,
-    "open": false
-  },
-  {
-    "id": "19273249",
-    "name": "Tarkkuusammunta ·Klondyke TA, 3 laina-asepaikkaa",
-    "date": "2025-06-30",
-    "registered": 8,
-    "capacity": 8,
-    "open": false
   },
   {
     "id": "19129502",
