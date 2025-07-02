@@ -21,7 +21,7 @@
     "date": "2025-07-03",
     "registered": 21,
     "capacity": 40,
-    "open": true
+    "open": false
   },
   {
     "id": "19244868",
@@ -37,7 +37,7 @@
     "date": "2025-07-03",
     "registered": 2,
     "capacity": 4,
-    "open": true
+    "open": false
   },
   {
     "id": "19273333",
