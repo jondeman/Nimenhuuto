@@ -1,37 +1,5 @@
 [
   {
-    "id": "19244753",
-    "name": "Tarkkuusammunta ·Merkintä 100 m",
-    "date": "2025-07-03",
-    "registered": 39,
-    "capacity": 40,
-    "open": false
-  },
-  {
-    "id": "19244763",
-    "name": "Tarkkuusammunta ·Merkintä monttu 4",
-    "date": "2025-07-03",
-    "registered": 21,
-    "capacity": 40,
-    "open": false
-  },
-  {
-    "id": "19244868",
-    "name": "Muu ·Merkintävalvoja",
-    "date": "2025-07-03",
-    "registered": 0,
-    "capacity": 0,
-    "open": true
-  },
-  {
-    "id": "19244870",
-    "name": "Muu ·Merkintävalvonta harjoittelu",
-    "date": "2025-07-03",
-    "registered": 2,
-    "capacity": 4,
-    "open": false
-  },
-  {
     "id": "19273333",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-07-04",
@@ -646,6 +614,46 @@
     "registered": 0,
     "capacity": 0,
     "open": true
+  },
+  {
+    "id": "19129515",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-10-02",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19244753",
+    "name": "Tarkkuusammunta ·Merkintä 100 m",
+    "date": "2025-07-03",
+    "registered": 39,
+    "capacity": 40,
+    "open": false
+  },
+  {
+    "id": "19244763",
+    "name": "Tarkkuusammunta ·Merkintä monttu 4",
+    "date": "2025-07-03",
+    "registered": 21,
+    "capacity": 40,
+    "open": false
+  },
+  {
+    "id": "19244868",
+    "name": "Muu ·Merkintävalvoja",
+    "date": "2025-07-03",
+    "registered": 0,
+    "capacity": 0,
+    "open": true
+  },
+  {
+    "id": "19244870",
+    "name": "Muu ·Merkintävalvonta harjoittelu",
+    "date": "2025-07-03",
+    "registered": 2,
+    "capacity": 4,
+    "open": false
   },
   {
     "id": "19129502",
