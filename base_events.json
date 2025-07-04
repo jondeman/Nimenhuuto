@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273333",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-07-04",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "18890005",
     "name": "Kilpailu ·VaRes 2GUN",
     "date": "2025-07-05",
@@ -619,6 +611,22 @@
     "id": "19129515",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-10-02",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273346",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-10-03",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273333",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-07-04",
     "registered": 0,
     "capacity": 0,
     "open": false
