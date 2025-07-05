@@ -1,13 +1,5 @@
 [
   {
-    "id": "18890005",
-    "name": "Kilpailu ·VaRes 2GUN",
-    "date": "2025-07-05",
-    "registered": 6,
-    "capacity": 60,
-    "open": true
-  },
-  {
     "id": "19273293",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-07-07",
@@ -622,5 +614,37 @@
     "registered": 0,
     "capacity": 0,
     "open": false
+  },
+  {
+    "id": "19244839",
+    "name": "Tarkkuusammunta ·Merkintä 100 m",
+    "date": "2025-10-05",
+    "registered": 9,
+    "capacity": 40,
+    "open": true
+  },
+  {
+    "id": "19244844",
+    "name": "Tarkkuusammunta ·Merkintä monttu 4",
+    "date": "2025-10-05",
+    "registered": 5,
+    "capacity": 40,
+    "open": true
+  },
+  {
+    "id": "19273378",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-10-05",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "18890005",
+    "name": "Kilpailu ·VaRes 2GUN",
+    "date": "2025-07-05",
+    "registered": 6,
+    "capacity": 60,
+    "open": true
   }
 ]
