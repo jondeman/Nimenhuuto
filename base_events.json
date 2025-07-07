@@ -1,29 +1,5 @@
 [
   {
-    "id": "19273293",
-    "name": "Tarkkuusammunta ·Klondyke TA",
-    "date": "2025-07-07",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19273250",
-    "name": "Tarkkuusammunta ·Klondyke TA (OMAT ASEET)",
-    "date": "2025-07-07",
-    "registered": 6,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19277062",
-    "name": "SRA ·Veturivuoro",
-    "date": "2025-07-07",
-    "registered": 0,
-    "capacity": 0,
-    "open": true
-  },
-  {
     "id": "19353266",
     "name": "SRA ·SRA-ampumakoe",
     "date": "2025-07-10",
@@ -638,5 +614,45 @@
     "registered": 0,
     "capacity": 0,
     "open": false
+  },
+  {
+    "id": "19273306",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-10-06",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273263",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-10-06",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273293",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-07",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273250",
+    "name": "Tarkkuusammunta ·Klondyke TA (OMAT ASEET)",
+    "date": "2025-07-07",
+    "registered": 6,
+    "capacity": 7,
+    "open": false
+  },
+  {
+    "id": "19277062",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-07-07",
+    "registered": 0,
+    "capacity": 0,
+    "open": true
   }
 ]
