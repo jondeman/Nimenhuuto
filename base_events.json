@@ -9,11 +9,11 @@
   },
   {
     "id": "19273250",
-    "name": "Tarkkuusammunta ·Klondyke TA",
+    "name": "Tarkkuusammunta ·Klondyke TA (OMAT ASEET)",
     "date": "2025-07-07",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
+    "registered": 3,
+    "capacity": 7,
+    "open": true
   },
   {
     "id": "19277062",
@@ -67,7 +67,7 @@
     "id": "19273294",
     "name": "Tarkkuusammunta ·Klondyke TA EI LAINA-ASEITA",
     "date": "2025-07-14",
-    "registered": 3,
+    "registered": 2,
     "capacity": 7,
     "open": true
   },
