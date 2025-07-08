@@ -43,9 +43,9 @@
     "id": "19273294",
     "name": "Tarkkuusammunta ·Klondyke TA EI LAINA-ASEITA",
     "date": "2025-07-14",
-    "registered": 6,
+    "registered": 7,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19273251",
@@ -219,7 +219,7 @@
     "id": "19244805",
     "name": "Tarkkuusammunta ·Merkintä 100 m",
     "date": "2025-08-12",
-    "registered": 15,
+    "registered": 16,
     "capacity": 40,
     "open": true
   },
@@ -443,7 +443,7 @@
     "id": "19244833",
     "name": "Tarkkuusammunta ·Merkintä 100 m",
     "date": "2025-09-14",
-    "registered": 10,
+    "registered": 11,
     "capacity": 40,
     "open": true
   },
@@ -595,7 +595,7 @@
     "id": "19244839",
     "name": "Tarkkuusammunta ·Merkintä 100 m",
     "date": "2025-10-05",
-    "registered": 10,
+    "registered": 11,
     "capacity": 40,
     "open": true
   },
@@ -630,29 +630,5 @@
     "registered": 0,
     "capacity": 0,
     "open": false
-  },
-  {
-    "id": "19273293",
-    "name": "Tarkkuusammunta ·Klondyke TA",
-    "date": "2025-07-07",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19273250",
-    "name": "Tarkkuusammunta ·Klondyke TA (OMAT ASEET)",
-    "date": "2025-07-07",
-    "registered": 6,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19277062",
-    "name": "SRA ·Veturivuoro",
-    "date": "2025-07-07",
-    "registered": 0,
-    "capacity": 0,
-    "open": true
   }
 ]
