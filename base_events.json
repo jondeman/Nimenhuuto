@@ -19,9 +19,9 @@
     "id": "19273334",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-07-11",
-    "registered": 6,
+    "registered": 8,
     "capacity": 8,
-    "open": true
+    "open": false
   },
   {
     "id": "19273366",
@@ -345,7 +345,7 @@
   },
   {
     "id": "18890692",
-    "name": "Muu ·megamakkaramerkkarit",
+    "name": "Muu ·Megamerkkarit",
     "date": "2025-08-29",
     "registered": 0,
     "capacity": 0,
