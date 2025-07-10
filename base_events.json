@@ -1,21 +1,5 @@
 [
   {
-    "id": "19353266",
-    "name": "SRA ·SRA-ampumakoe",
-    "date": "2025-07-10",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19129503",
-    "name": "SRA ·SRA-treenit miniriflellä",
-    "date": "2025-07-10",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "19273334",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-07-11",
@@ -603,7 +587,7 @@
     "id": "19244839",
     "name": "Tarkkuusammunta ·Merkintä 100 m",
     "date": "2025-10-05",
-    "registered": 11,
+    "registered": 12,
     "capacity": 40,
     "open": true
   },
@@ -635,6 +619,30 @@
     "id": "19273263",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-10-06",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19129516",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-10-09",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19353266",
+    "name": "SRA ·SRA-ampumakoe",
+    "date": "2025-07-10",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19129503",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-07-10",
     "registered": 0,
     "capacity": 0,
     "open": false
