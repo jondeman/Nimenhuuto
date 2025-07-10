@@ -2470,3 +2470,13 @@
 2025-07-10 10:27:48,487 INFO: Noudettu 79 tapahtumaa
 2025-07-10 10:27:48,488 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-07-10 10:27:48,488 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-10 11:21:34,372 INFO: Ohjelma käynnistyi
+2025-07-10 11:21:34,372 INFO: Baselinessa 79 eventtiä
+2025-07-10 11:21:45,245 INFO: Noudettu 80 tapahtumaa
+2025-07-10 11:21:45,245 INFO: Notifikaatio: 19273366 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “SRA ·Klondyke SRA omat aseet 2025-07-13” voi nyt ilmoittautua!
+2025-07-10 11:21:46,327 INFO: Viestin lähetys onnistui eventille 19273366
+2025-07-10 11:21:46,327 INFO: Notifikaatio: 19273251 open False→True tai registered 0→0, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA 2025-07-14” voi nyt ilmoittautua!
+2025-07-10 11:21:47,209 INFO: Viestin lähetys onnistui eventille 19273251
+2025-07-10 11:21:47,209 INFO: Uusi eventti: 19370745 (Tarkkuusammunta ·300m) lisätään baselineen
+2025-07-10 11:21:47,210 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 2. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 1.
+2025-07-10 11:21:47,210 INFO: Lähetettyjä notifikaatioita: 2 kpl.

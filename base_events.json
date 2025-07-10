@@ -25,11 +25,11 @@
   },
   {
     "id": "19273366",
-    "name": "SRA ·Klondyke SRA",
+    "name": "SRA ·Klondyke SRA omat aseet",
     "date": "2025-07-13",
     "registered": 0,
-    "capacity": 0,
-    "open": false
+    "capacity": 7,
+    "open": true
   },
   {
     "id": "18867610",
@@ -52,8 +52,16 @@
     "name": "Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA",
     "date": "2025-07-14",
     "registered": 0,
-    "capacity": 0,
-    "open": false
+    "capacity": 7,
+    "open": true
+  },
+  {
+    "id": "19370745",
+    "name": "Tarkkuusammunta ·300m",
+    "date": "2025-07-16",
+    "registered": 3,
+    "capacity": 20,
+    "open": true
   },
   {
     "id": "19129504",
