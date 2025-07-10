@@ -2507,3 +2507,11 @@
 2025-07-10 16:32:54,271 INFO: Noudettu 80 tapahtumaa
 2025-07-10 16:32:54,272 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-07-10 16:32:54,272 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-10 17:24:10,676 INFO: Ohjelma käynnistyi
+2025-07-10 17:24:10,677 INFO: Baselinessa 80 eventtiä
+2025-07-10 17:24:21,241 INFO: Noudettu 80 tapahtumaa
+2025-07-10 17:24:21,241 INFO: Notifikaatiota EI lähetetä eventille 19273294, koska osallistujia jo yli 60% kapasiteetista (6/7)
+2025-07-10 17:24:21,241 INFO: Notifikaatio: 19273251 open False→True tai registered 0→1, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA 2025-07-14” voi nyt ilmoittautua!
+2025-07-10 17:24:22,020 INFO: Viestin lähetys onnistui eventille 19273251
+2025-07-10 17:24:22,020 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 1. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-07-10 17:24:22,021 INFO: Lähetettyjä notifikaatioita: 1 kpl.
