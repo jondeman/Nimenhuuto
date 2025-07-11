@@ -2566,3 +2566,8 @@
 2025-07-11 10:27:11,350 INFO: Noudettu 79 tapahtumaa
 2025-07-11 10:27:11,351 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-07-11 10:27:11,351 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-11 11:21:49,743 INFO: Ohjelma käynnistyi
+2025-07-11 11:21:49,743 INFO: Baselinessa 79 eventtiä
+2025-07-11 11:21:59,810 INFO: Noudettu 79 tapahtumaa
+2025-07-11 11:21:59,811 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-07-11 11:21:59,811 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
