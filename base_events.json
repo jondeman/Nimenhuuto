@@ -11,9 +11,9 @@
     "id": "19273366",
     "name": "SRA ·Klondyke SRA omat aseet",
     "date": "2025-07-13",
-    "registered": 7,
+    "registered": 8,
     "capacity": 8,
-    "open": true
+    "open": false
   },
   {
     "id": "18867610",
@@ -235,7 +235,7 @@
     "id": "19244873",
     "name": "Muu ·Merkintävalvoja harjoittelu",
     "date": "2025-08-12",
-    "registered": 0,
+    "registered": 1,
     "capacity": 4,
     "open": true
   },
