@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273334",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-07-11",
-    "registered": 8,
-    "capacity": 8,
-    "open": false
-  },
-  {
     "id": "19273366",
     "name": "SRA ·Klondyke SRA omat aseet",
     "date": "2025-07-13",
@@ -629,6 +621,22 @@
     "date": "2025-10-09",
     "registered": 0,
     "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273347",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-10-10",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273334",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-07-11",
+    "registered": 8,
+    "capacity": 8,
     "open": false
   }
 ]
