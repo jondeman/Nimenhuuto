@@ -27,7 +27,7 @@
     "id": "19273251",
     "name": "Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA",
     "date": "2025-07-14",
-    "registered": 1,
+    "registered": 2,
     "capacity": 7,
     "open": true
   },
@@ -629,14 +629,6 @@
     "date": "2025-10-10",
     "registered": 0,
     "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19273334",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-07-11",
-    "registered": 8,
-    "capacity": 8,
     "open": false
   }
 ]
