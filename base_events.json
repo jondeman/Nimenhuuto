@@ -19,15 +19,15 @@
     "id": "19273294",
     "name": "Tarkkuusammunta ·Klondyke TA EI LAINA-ASEITA",
     "date": "2025-07-14",
-    "registered": 6,
+    "registered": 7,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19273251",
     "name": "Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA",
     "date": "2025-07-14",
-    "registered": 4,
+    "registered": 5,
     "capacity": 7,
     "open": true
   },
@@ -211,7 +211,7 @@
     "id": "19244823",
     "name": "Tarkkuusammunta ·Merkintä monttu 4",
     "date": "2025-08-12",
-    "registered": 3,
+    "registered": 4,
     "capacity": 40,
     "open": true
   },
