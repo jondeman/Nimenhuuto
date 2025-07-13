@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273366",
-    "name": "SRA ·Klondyke SRA omat aseet",
-    "date": "2025-07-13",
-    "registered": 8,
-    "capacity": 8,
-    "open": false
-  },
-  {
     "id": "18867610",
     "name": "Kilpailu ·SRA SM",
     "date": "2025-07-14",
@@ -629,6 +621,14 @@
     "date": "2025-10-10",
     "registered": 0,
     "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273366",
+    "name": "SRA ·Klondyke SRA omat aseet",
+    "date": "2025-07-13",
+    "registered": 8,
+    "capacity": 8,
     "open": false
   }
 ]
