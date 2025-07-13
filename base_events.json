@@ -27,15 +27,15 @@
     "id": "19273251",
     "name": "Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA",
     "date": "2025-07-14",
-    "registered": 6,
+    "registered": 7,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19370745",
     "name": "Tarkkuusammunta ·300m",
     "date": "2025-07-16",
-    "registered": 7,
+    "registered": 8,
     "capacity": 20,
     "open": true
   },
