@@ -1,29 +1,5 @@
 [
   {
-    "id": "18867610",
-    "name": "Kilpailu ·SRA SM",
-    "date": "2025-07-14",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19273294",
-    "name": "Tarkkuusammunta ·Klondyke TA EI LAINA-ASEITA",
-    "date": "2025-07-14",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19273251",
-    "name": "Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA",
-    "date": "2025-07-14",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
     "id": "19370745",
     "name": "Tarkkuusammunta ·300m",
     "date": "2025-07-16",
@@ -629,6 +605,54 @@
     "date": "2025-10-10",
     "registered": 0,
     "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273307",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-10-13",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273264",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-10-13",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19277076",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-10-13",
+    "registered": 0,
+    "capacity": 0,
+    "open": true
+  },
+  {
+    "id": "18867610",
+    "name": "Kilpailu ·SRA SM",
+    "date": "2025-07-14",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273294",
+    "name": "Tarkkuusammunta ·Klondyke TA EI LAINA-ASEITA",
+    "date": "2025-07-14",
+    "registered": 7,
+    "capacity": 7,
+    "open": false
+  },
+  {
+    "id": "19273251",
+    "name": "Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA",
+    "date": "2025-07-14",
+    "registered": 7,
+    "capacity": 7,
     "open": false
   }
 ]
