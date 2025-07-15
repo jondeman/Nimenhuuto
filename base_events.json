@@ -630,29 +630,5 @@
     "registered": 0,
     "capacity": 0,
     "open": true
-  },
-  {
-    "id": "18867610",
-    "name": "Kilpailu ·SRA SM",
-    "date": "2025-07-14",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19273294",
-    "name": "Tarkkuusammunta ·Klondyke TA EI LAINA-ASEITA",
-    "date": "2025-07-14",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19273251",
-    "name": "Tarkkuusammunta ·Klondyke TA  EI LAINA-ASEITA",
-    "date": "2025-07-14",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
   }
 ]
