@@ -2964,3 +2964,8 @@
 2025-07-15 20:28:49,825 INFO: Uusi eventti: 19382501 (Tarkkuusammunta ·Töölöntori - Tarkkuusammunta) lisätään baselineen
 2025-07-15 20:28:49,826 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 1.
 2025-07-15 20:28:49,826 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-15 21:24:27,211 INFO: Ohjelma käynnistyi
+2025-07-15 21:24:27,211 INFO: Baselinessa 80 eventtiä
+2025-07-15 21:24:38,491 INFO: Noudettu 80 tapahtumaa
+2025-07-15 21:24:38,492 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-07-15 21:24:38,492 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
