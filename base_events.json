@@ -13,7 +13,7 @@
     "date": "2025-07-17",
     "registered": 3,
     "capacity": 6,
-    "open": true
+    "open": false
   },
   {
     "id": "19129504",
@@ -187,7 +187,7 @@
     "id": "19244805",
     "name": "Tarkkuusammunta ·Merkintä 100 m",
     "date": "2025-08-12",
-    "registered": 19,
+    "registered": 18,
     "capacity": 40,
     "open": true
   },
