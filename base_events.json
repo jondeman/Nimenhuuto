@@ -1,21 +1,5 @@
 [
   {
-    "id": "19377091",
-    "name": "Tarkkuusammunta ·Hälvälä 300m",
-    "date": "2025-07-17",
-    "registered": 3,
-    "capacity": 6,
-    "open": false
-  },
-  {
-    "id": "19129504",
-    "name": "SRA ·SRA-treenit miniriflellä",
-    "date": "2025-07-17",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "19273335",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-07-18",
@@ -630,5 +614,29 @@
     "registered": 0,
     "capacity": 0,
     "open": true
+  },
+  {
+    "id": "19129517",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-10-16",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19377091",
+    "name": "Tarkkuusammunta ·Hälvälä 300m",
+    "date": "2025-07-17",
+    "registered": 3,
+    "capacity": 6,
+    "open": false
+  },
+  {
+    "id": "19129504",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-07-17",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
   }
 ]
