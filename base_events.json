@@ -299,7 +299,7 @@
     "id": "18890692",
     "name": "Muu ·Megamerkkarit",
     "date": "2025-08-30",
-    "registered": 0,
+    "registered": 1,
     "capacity": 40,
     "open": true
   },
@@ -307,7 +307,7 @@
     "id": "19391401",
     "name": "Muu ·Megamerkkari majoitus",
     "date": "2025-08-30",
-    "registered": 0,
+    "registered": 1,
     "capacity": 20,
     "open": true
   },
