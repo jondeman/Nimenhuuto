@@ -280,20 +280,36 @@
     "open": false
   },
   {
-    "id": "18890692",
-    "name": "Muu ·Megamerkkarit",
-    "date": "2025-08-29",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "19273341",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-08-29",
     "registered": 0,
     "capacity": 0,
     "open": false
+  },
+  {
+    "id": "19391391",
+    "name": "Muu ·Megamerkkari valvojat",
+    "date": "2025-08-29",
+    "registered": 3,
+    "capacity": 10,
+    "open": true
+  },
+  {
+    "id": "18890692",
+    "name": "Muu ·Megamerkkarit",
+    "date": "2025-08-30",
+    "registered": 0,
+    "capacity": 40,
+    "open": true
+  },
+  {
+    "id": "19391401",
+    "name": "Muu ·Megamerkkari majoitus",
+    "date": "2025-08-30",
+    "registered": 0,
+    "capacity": 20,
+    "open": true
   },
   {
     "id": "19273301",
