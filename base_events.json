@@ -1,37 +1,5 @@
 [
   {
-    "id": "19273295",
-    "name": "Tarkkuusammunta ·Klondyke TA",
-    "date": "2025-07-21",
-    "registered": 4,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19382501",
-    "name": "Tarkkuusammunta ·Töölöntori - Tarkkuusammunta",
-    "date": "2025-07-21",
-    "registered": 7,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19273252",
-    "name": "Tarkkuusammunta ·Klondyke TA",
-    "date": "2025-07-21",
-    "registered": 5,
-    "capacity": 7,
-    "open": false
-  },
-  {
-    "id": "19277064",
-    "name": "SRA ·Veturivuoro",
-    "date": "2025-07-21",
-    "registered": 0,
-    "capacity": 0,
-    "open": true
-  },
-  {
     "id": "19273336",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-07-25",
@@ -595,9 +563,9 @@
     "id": "19396151",
     "name": "Muu ·Monitoimiammuntaa",
     "date": "2025-10-11",
-    "registered": 23,
+    "registered": 25,
     "capacity": 25,
-    "open": true
+    "open": false
   },
   {
     "id": "19273307",
@@ -646,6 +614,62 @@
     "registered": 0,
     "capacity": 0,
     "open": false
+  },
+  {
+    "id": "19273308",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-10-20",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273265",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-10-20",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19129518",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-10-23",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273295",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-21",
+    "registered": 4,
+    "capacity": 7,
+    "open": false
+  },
+  {
+    "id": "19382501",
+    "name": "Tarkkuusammunta ·Töölöntori - Tarkkuusammunta",
+    "date": "2025-07-21",
+    "registered": 7,
+    "capacity": 7,
+    "open": false
+  },
+  {
+    "id": "19273252",
+    "name": "Tarkkuusammunta ·Klondyke TA",
+    "date": "2025-07-21",
+    "registered": 5,
+    "capacity": 7,
+    "open": false
+  },
+  {
+    "id": "19277064",
+    "name": "SRA ·Veturivuoro",
+    "date": "2025-07-21",
+    "registered": 0,
+    "capacity": 0,
+    "open": true
   },
   {
     "id": "19129505",

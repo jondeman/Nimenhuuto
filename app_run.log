@@ -3490,3 +3490,11 @@
 2025-07-21 20:28:44,263 INFO: Noudettu 81 tapahtumaa
 2025-07-21 20:28:44,264 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-07-21 20:28:44,264 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-21 21:25:14,763 INFO: Ohjelma käynnistyi
+2025-07-21 21:25:14,763 INFO: Baselinessa 82 eventtiä
+2025-07-21 21:25:25,136 INFO: Noudettu 80 tapahtumaa
+2025-07-21 21:25:25,136 INFO: Uusi eventti: 19273308 (Tarkkuusammunta ·Klondyke TA) lisätään baselineen
+2025-07-21 21:25:25,136 INFO: Uusi eventti: 19273265 (Tarkkuusammunta ·Klondyke TA) lisätään baselineen
+2025-07-21 21:25:25,136 INFO: Uusi eventti: 19129518 (SRA ·SRA-treenit miniriflellä) lisätään baselineen
+2025-07-21 21:25:25,137 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 3.
+2025-07-21 21:25:25,137 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
