@@ -5,7 +5,7 @@
     "date": "2025-07-21",
     "registered": 4,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19382501",
@@ -21,7 +21,7 @@
     "date": "2025-07-21",
     "registered": 5,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19277064",
