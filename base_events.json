@@ -32,14 +32,6 @@
     "open": true
   },
   {
-    "id": "19129505",
-    "name": "SRA ·SRA-treenit miniriflellä",
-    "date": "2025-07-24",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "19273336",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-07-25",
@@ -643,6 +635,14 @@
     "id": "19273380",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-10-19",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19129505",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-07-24",
     "registered": 0,
     "capacity": 0,
     "open": false
