@@ -3,7 +3,7 @@
     "id": "19273336",
     "name": "SRA ·Klondyke SRA Pistooli",
     "date": "2025-07-25",
-    "registered": 8,
+    "registered": 9,
     "capacity": 9,
     "open": false
   },
@@ -19,7 +19,7 @@
     "id": "19273296",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-07-28",
-    "registered": 3,
+    "registered": 6,
     "capacity": 7,
     "open": true
   },
@@ -29,6 +29,22 @@
     "date": "2025-07-28",
     "registered": 6,
     "capacity": 7,
+    "open": true
+  },
+  {
+    "id": "19399461",
+    "name": "Muu ·Glock puhdistustalkoot",
+    "date": "2025-07-31",
+    "registered": 0,
+    "capacity": 8,
+    "open": true
+  },
+  {
+    "id": "19399462",
+    "name": "Muu ·Kerhotilan talkoot",
+    "date": "2025-07-31",
+    "registered": 0,
+    "capacity": 8,
     "open": true
   },
   {

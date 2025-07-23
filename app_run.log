@@ -3591,3 +3591,10 @@
 2025-07-22 21:25:13,244 INFO: Noudettu 80 tapahtumaa
 2025-07-22 21:25:13,245 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-07-22 21:25:13,245 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-23 05:32:42,263 INFO: Ohjelma käynnistyi
+2025-07-23 05:32:42,264 INFO: Baselinessa 81 eventtiä
+2025-07-23 05:32:53,297 INFO: Noudettu 82 tapahtumaa
+2025-07-23 05:32:53,297 INFO: Uusi eventti: 19399461 (Muu ·Glock puhdistustalkoot) lisätään baselineen
+2025-07-23 05:32:53,297 INFO: Uusi eventti: 19399462 (Muu ·Kerhotilan talkoot) lisätään baselineen
+2025-07-23 05:32:53,298 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 2.
+2025-07-23 05:32:53,298 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
