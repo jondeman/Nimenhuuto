@@ -32,6 +32,14 @@
     "open": true
   },
   {
+    "id": "19405825",
+    "name": "Muu ·Valvontaharjoittelu",
+    "date": "2025-07-29",
+    "registered": 1,
+    "capacity": 2,
+    "open": true
+  },
+  {
     "id": "19403142",
     "name": "Tarkkuusammunta ·Wheelguns",
     "date": "2025-07-29",
@@ -67,9 +75,9 @@
     "id": "19129506",
     "name": "SRA ·SRA-treenit, kivääri, Loppi",
     "date": "2025-07-31",
-    "registered": 1,
+    "registered": 8,
     "capacity": 8,
-    "open": true
+    "open": false
   },
   {
     "id": "19403225",
@@ -155,7 +163,7 @@
     "id": "19244805",
     "name": "Tarkkuusammunta ·Merkintä 100 m",
     "date": "2025-08-12",
-    "registered": 22,
+    "registered": 24,
     "capacity": 40,
     "open": true
   },
@@ -293,6 +301,14 @@
     "date": "2025-08-29",
     "registered": 5,
     "capacity": 10,
+    "open": true
+  },
+  {
+    "id": "19405885",
+    "name": "Muu ·Merkintä harjoittelu",
+    "date": "2025-08-29",
+    "registered": 0,
+    "capacity": 4,
     "open": true
   },
   {
