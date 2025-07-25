@@ -83,9 +83,9 @@
     "id": "19403225",
     "name": "Tarkkuusammunta ·Hälvälä 300m",
     "date": "2025-07-31",
-    "registered": 5,
+    "registered": 6,
     "capacity": 6,
-    "open": true
+    "open": false
   },
   {
     "id": "19273337",
@@ -163,7 +163,7 @@
     "id": "19244805",
     "name": "Tarkkuusammunta ·Merkintä 100 m",
     "date": "2025-08-12",
-    "registered": 24,
+    "registered": 25,
     "capacity": 40,
     "open": true
   },
