@@ -3860,3 +3860,9 @@
 2025-07-25 20:28:24,544 INFO: Noudettu 87 tapahtumaa
 2025-07-25 20:28:24,545 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-07-25 20:28:24,545 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-25 21:24:17,341 INFO: Ohjelma käynnistyi
+2025-07-25 21:24:17,341 INFO: Baselinessa 87 eventtiä
+2025-07-25 21:24:27,488 INFO: Noudettu 87 tapahtumaa
+2025-07-25 21:24:27,488 INFO: Uusi eventti: 19273349 (SRA ·Klondyke SRA) lisätään baselineen
+2025-07-25 21:24:27,489 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 1.
+2025-07-25 21:24:27,489 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.

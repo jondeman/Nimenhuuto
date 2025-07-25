@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273336",
-    "name": "SRA ·Klondyke SRA Pistooli",
-    "date": "2025-07-25",
-    "registered": 9,
-    "capacity": 9,
-    "open": false
-  },
-  {
     "id": "19273368",
     "name": "SRA ·Klondyke SRA Pistooli",
     "date": "2025-07-27",
@@ -51,7 +43,7 @@
     "id": "19403184",
     "name": "Tarkkuusammunta ·Wheelguns",
     "date": "2025-07-29",
-    "registered": 2,
+    "registered": 3,
     "capacity": 6,
     "open": true
   },
@@ -693,6 +685,22 @@
     "date": "2025-10-23",
     "registered": 0,
     "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273349",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-10-24",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273336",
+    "name": "SRA ·Klondyke SRA Pistooli",
+    "date": "2025-07-25",
+    "registered": 9,
+    "capacity": 9,
     "open": false
   }
 ]
