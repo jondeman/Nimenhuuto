@@ -27,9 +27,9 @@
     "id": "19273253",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-07-28",
-    "registered": 6,
+    "registered": 7,
     "capacity": 7,
-    "open": true
+    "open": false
   },
   {
     "id": "19405825",
@@ -691,14 +691,6 @@
     "id": "19129518",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-10-23",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
-    "id": "19129505",
-    "name": "SRA ·SRA-treenit miniriflellä",
-    "date": "2025-07-24",
     "registered": 0,
     "capacity": 0,
     "open": false
