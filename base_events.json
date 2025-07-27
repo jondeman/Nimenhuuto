@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273368",
-    "name": "SRA ·Klondyke SRA Pistooli",
-    "date": "2025-07-27",
-    "registered": 8,
-    "capacity": 9,
-    "open": false
-  },
-  {
     "id": "19273296",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-07-28",
@@ -701,6 +693,14 @@
     "date": "2025-10-24",
     "registered": 0,
     "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273368",
+    "name": "SRA ·Klondyke SRA Pistooli",
+    "date": "2025-07-27",
+    "registered": 8,
+    "capacity": 9,
     "open": false
   }
 ]
