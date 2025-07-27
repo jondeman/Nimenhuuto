@@ -3967,3 +3967,10 @@
 2025-07-27 07:23:56,593 INFO: Noudettu 87 tapahtumaa
 2025-07-27 07:23:56,594 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-07-27 07:23:56,594 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-27 08:31:20,139 INFO: Ohjelma käynnistyi
+2025-07-27 08:31:20,140 INFO: Baselinessa 87 eventtiä
+2025-07-27 08:31:30,872 INFO: Noudettu 87 tapahtumaa
+2025-07-27 08:31:30,872 INFO: Notifikaatiota EI lähetetä eventille 19273296, koska osallistujia jo yli 60% kapasiteetista (6/7)
+2025-07-27 08:31:30,872 INFO: Notifikaatiota EI lähetetä eventille 19273338, koska osallistujia jo yli 60% kapasiteetista (1/1)
+2025-07-27 08:31:30,873 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-07-27 08:31:30,873 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.

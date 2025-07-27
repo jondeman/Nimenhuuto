@@ -11,9 +11,9 @@
     "id": "19273296",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-07-28",
-    "registered": 7,
+    "registered": 6,
     "capacity": 7,
-    "open": false
+    "open": true
   },
   {
     "id": "19273253",
@@ -123,8 +123,8 @@
     "id": "19273338",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-08-08",
-    "registered": 0,
-    "capacity": 0,
+    "registered": 1,
+    "capacity": 1,
     "open": false
   },
   {
