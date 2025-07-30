@@ -3,9 +3,9 @@
     "id": "19399461",
     "name": "Muu ·Glock puhdistustalkoot",
     "date": "2025-07-31",
-    "registered": 7,
+    "registered": 8,
     "capacity": 8,
-    "open": true
+    "open": false
   },
   {
     "id": "19399462",
@@ -75,7 +75,7 @@
     "id": "19273254",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-08-04",
-    "registered": 2,
+    "registered": 3,
     "capacity": 6,
     "open": true
   },
