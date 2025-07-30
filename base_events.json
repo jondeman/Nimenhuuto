@@ -32,9 +32,33 @@
     "open": true
   },
   {
+    "id": "19428991",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-07-31",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273337",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-08-01",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429239",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-03",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429261",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-03",
     "registered": 0,
     "capacity": 0,
     "open": false
@@ -72,6 +96,14 @@
     "open": false
   },
   {
+    "id": "19428992",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-07",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19129507",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-08-07",
@@ -90,6 +122,22 @@
   {
     "id": "19273370",
     "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-10",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429240",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-10",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429262",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-08-10",
     "registered": 0,
     "capacity": 0,
@@ -144,6 +192,22 @@
     "open": true
   },
   {
+    "id": "19429180",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-12",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19428993",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-14",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19129508",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-08-14",
@@ -155,6 +219,22 @@
     "id": "19273339",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-08-15",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429241",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-17",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429263",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-17",
     "registered": 0,
     "capacity": 0,
     "open": false
@@ -184,6 +264,22 @@
     "open": true
   },
   {
+    "id": "19429181",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-19",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19428994",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-21",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19129509",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-08-21",
@@ -208,6 +304,22 @@
     "open": false
   },
   {
+    "id": "19429242",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-24",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429264",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-24",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273300",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-08-25",
@@ -219,6 +331,22 @@
     "id": "19273257",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-08-25",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429182",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-26",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19428995",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-28",
     "registered": 0,
     "capacity": 0,
     "open": false
@@ -280,6 +408,22 @@
     "open": true
   },
   {
+    "id": "19429243",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-31",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429265",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-08-31",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273301",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-09-01",
@@ -302,6 +446,22 @@
     "registered": 0,
     "capacity": 0,
     "open": true
+  },
+  {
+    "id": "19429183",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-02",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19428996",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-04",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
   },
   {
     "id": "19129511",
@@ -328,6 +488,22 @@
     "open": false
   },
   {
+    "id": "19429244",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-07",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429266",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-07",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273302",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-09-08",
@@ -339,6 +515,22 @@
     "id": "19273259",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-09-08",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429184",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-09",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19428997",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-11",
     "registered": 0,
     "capacity": 0,
     "open": false
@@ -376,6 +568,22 @@
     "open": true
   },
   {
+    "id": "19429245",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-14",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429267",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-14",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273303",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-09-15",
@@ -398,6 +606,22 @@
     "registered": 0,
     "capacity": 0,
     "open": true
+  },
+  {
+    "id": "19429185",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-16",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19428998",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-18",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
   },
   {
     "id": "19129513",
@@ -424,6 +648,22 @@
     "open": false
   },
   {
+    "id": "19429246",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-21",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429268",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-21",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273304",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-09-22",
@@ -435,6 +675,22 @@
     "id": "19273261",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-09-22",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429186",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-23",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19428999",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-25",
     "registered": 0,
     "capacity": 0,
     "open": false
@@ -472,6 +728,22 @@
     "open": false
   },
   {
+    "id": "19429247",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-28",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429269",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-28",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273305",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-09-29",
@@ -494,6 +766,22 @@
     "registered": 0,
     "capacity": 0,
     "open": true
+  },
+  {
+    "id": "19429187",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-09-30",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429000",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-02",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
   },
   {
     "id": "19129515",
@@ -536,6 +824,22 @@
     "open": false
   },
   {
+    "id": "19429248",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-05",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429270",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-05",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273306",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-10-06",
@@ -547,6 +851,22 @@
     "id": "19273263",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-10-06",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429188",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-07",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429001",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-09",
     "registered": 0,
     "capacity": 0,
     "open": false
@@ -576,6 +896,22 @@
     "open": false
   },
   {
+    "id": "19429249",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-12",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429271",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-12",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273307",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-10-13",
@@ -598,6 +934,22 @@
     "registered": 0,
     "capacity": 0,
     "open": true
+  },
+  {
+    "id": "19429189",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-14",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429002",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-16",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
   },
   {
     "id": "19129517",
@@ -624,6 +976,22 @@
     "open": false
   },
   {
+    "id": "19429250",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-19",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429272",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-19",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19273308",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-10-20",
@@ -640,6 +1008,22 @@
     "open": false
   },
   {
+    "id": "19429190",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-21",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429003",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-23",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
     "id": "19129518",
     "name": "SRA ·SRA-treenit miniriflellä",
     "date": "2025-10-23",
@@ -651,6 +1035,22 @@
     "id": "19273349",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-10-24",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429251",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-26",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429273",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-26",
     "registered": 0,
     "capacity": 0,
     "open": false
@@ -678,5 +1078,13 @@
     "registered": 0,
     "capacity": 0,
     "open": true
+  },
+  {
+    "id": "19429191",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-28",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
   }
 ]

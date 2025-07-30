@@ -4224,3 +4224,59 @@
 2025-07-30 06:40:47,585 INFO: Noudettu 85 tapahtumaa
 2025-07-30 06:40:47,586 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-07-30 06:40:47,586 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-07-30 07:29:46,182 INFO: Ohjelma käynnistyi
+2025-07-30 07:29:46,182 INFO: Baselinessa 85 eventtiä
+2025-07-30 07:30:03,494 INFO: Noudettu 136 tapahtumaa
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19428991 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19429239 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19429261 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19428992 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19429240 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19429262 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19429180 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19428993 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19429241 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,494 INFO: Uusi eventti: 19429263 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429181 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19428994 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429242 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429264 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429182 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19428995 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429243 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429265 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429183 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19428996 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429244 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429266 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429184 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19428997 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429245 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429267 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429185 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19428998 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429246 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429268 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429186 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19428999 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429247 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429269 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429187 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429000 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429248 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429270 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429188 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429001 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429249 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429271 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429189 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429002 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,495 INFO: Uusi eventti: 19429250 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,496 INFO: Uusi eventti: 19429272 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,496 INFO: Uusi eventti: 19429190 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,496 INFO: Uusi eventti: 19429003 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,496 INFO: Uusi eventti: 19429251 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,496 INFO: Uusi eventti: 19429273 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,496 INFO: Uusi eventti: 19429191 (Tarkkuusammunta ·.22 Tikkurila) lisätään baselineen
+2025-07-30 07:30:03,498 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 51.
+2025-07-30 07:30:03,498 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
