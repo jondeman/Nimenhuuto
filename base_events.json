@@ -19,9 +19,9 @@
     "id": "19129506",
     "name": "SRA ·SRA-treenit, kivääri, Loppi",
     "date": "2025-07-31",
-    "registered": 8,
+    "registered": 7,
     "capacity": 8,
-    "open": false
+    "open": true
   },
   {
     "id": "19403225",
@@ -67,7 +67,7 @@
     "id": "19273297",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-08-04",
-    "registered": 4,
+    "registered": 5,
     "capacity": 6,
     "open": true
   },
