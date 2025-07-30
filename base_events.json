@@ -678,29 +678,5 @@
     "registered": 0,
     "capacity": 0,
     "open": true
-  },
-  {
-    "id": "19405825",
-    "name": "Muu ·Valvontaharjoittelu",
-    "date": "2025-07-29",
-    "registered": 0,
-    "capacity": 2,
-    "open": false
-  },
-  {
-    "id": "19403142",
-    "name": "Tarkkuusammunta ·Wheelguns",
-    "date": "2025-07-29",
-    "registered": 5,
-    "capacity": 6,
-    "open": false
-  },
-  {
-    "id": "19403184",
-    "name": "Tarkkuusammunta ·Wheelguns",
-    "date": "2025-07-29",
-    "registered": 3,
-    "capacity": 6,
-    "open": false
   }
 ]
