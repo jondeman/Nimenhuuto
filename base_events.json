@@ -43,9 +43,9 @@
     "id": "19273337",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-08-01",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
+    "registered": 3,
+    "capacity": 8,
+    "open": true
   },
   {
     "id": "19429239",
