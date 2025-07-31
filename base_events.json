@@ -75,7 +75,7 @@
     "id": "19273254",
     "name": "Tarkkuusammunta ·Klondyke TA",
     "date": "2025-08-04",
-    "registered": 3,
+    "registered": 4,
     "capacity": 6,
     "open": true
   },
@@ -395,7 +395,7 @@
     "id": "18890692",
     "name": "Muu ·Megamerkkarit",
     "date": "2025-08-30",
-    "registered": 7,
+    "registered": 10,
     "capacity": 40,
     "open": true
   },
@@ -403,7 +403,7 @@
     "id": "19391401",
     "name": "Muu ·Megamerkkari majoitus",
     "date": "2025-08-30",
-    "registered": 2,
+    "registered": 5,
     "capacity": 20,
     "open": true
   },
