@@ -1,45 +1,5 @@
 [
   {
-    "id": "19399461",
-    "name": "Muu ·Glock puhdistustalkoot",
-    "date": "2025-07-31",
-    "registered": 8,
-    "capacity": 8,
-    "open": false
-  },
-  {
-    "id": "19399462",
-    "name": "Muu ·Kerhotilan talkoot",
-    "date": "2025-07-31",
-    "registered": 5,
-    "capacity": 8,
-    "open": false
-  },
-  {
-    "id": "19129506",
-    "name": "SRA ·SRA-treenit, kivääri, Loppi",
-    "date": "2025-07-31",
-    "registered": 7,
-    "capacity": 8,
-    "open": false
-  },
-  {
-    "id": "19403225",
-    "name": "Tarkkuusammunta ·Hälvälä 300m",
-    "date": "2025-07-31",
-    "registered": 5,
-    "capacity": 6,
-    "open": false
-  },
-  {
-    "id": "19428991",
-    "name": "Tarkkuusammunta ·.22 Tikkurila",
-    "date": "2025-07-31",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
-  },
-  {
     "id": "19273337",
     "name": "SRA ·Klondyke SRA",
     "date": "2025-08-01",
@@ -1083,6 +1043,62 @@
     "id": "19429191",
     "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-10-28",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19429004",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-10-30",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19129519",
+    "name": "SRA ·SRA-treenit miniriflellä",
+    "date": "2025-10-30",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19399461",
+    "name": "Muu ·Glock puhdistustalkoot",
+    "date": "2025-07-31",
+    "registered": 8,
+    "capacity": 8,
+    "open": false
+  },
+  {
+    "id": "19399462",
+    "name": "Muu ·Kerhotilan talkoot",
+    "date": "2025-07-31",
+    "registered": 5,
+    "capacity": 8,
+    "open": false
+  },
+  {
+    "id": "19129506",
+    "name": "SRA ·SRA-treenit, kivääri, Loppi",
+    "date": "2025-07-31",
+    "registered": 7,
+    "capacity": 8,
+    "open": false
+  },
+  {
+    "id": "19403225",
+    "name": "Tarkkuusammunta ·Hälvälä 300m",
+    "date": "2025-07-31",
+    "registered": 5,
+    "capacity": 6,
+    "open": false
+  },
+  {
+    "id": "19428991",
+    "name": "Tarkkuusammunta ·.22 Tikkurila",
+    "date": "2025-07-31",
     "registered": 0,
     "capacity": 0,
     "open": false
