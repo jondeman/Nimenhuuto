@@ -1,13 +1,5 @@
 [
   {
-    "id": "19273337",
-    "name": "SRA ·Klondyke SRA",
-    "date": "2025-08-01",
-    "registered": 4,
-    "capacity": 8,
-    "open": false
-  },
-  {
     "id": "19429239",
     "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-08-03",
@@ -1061,6 +1053,22 @@
     "date": "2025-10-30",
     "registered": 0,
     "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273350",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-10-31",
+    "registered": 0,
+    "capacity": 0,
+    "open": false
+  },
+  {
+    "id": "19273337",
+    "name": "SRA ·Klondyke SRA",
+    "date": "2025-08-01",
+    "registered": 4,
+    "capacity": 8,
     "open": false
   }
 ]
