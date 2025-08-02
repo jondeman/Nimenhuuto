@@ -4553,3 +4553,10 @@
 2025-08-02 08:31:53,604 INFO: Noudettu 133 tapahtumaa
 2025-08-02 08:31:53,605 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 0. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
 2025-08-02 08:31:53,605 INFO: Notifikaatioita ei lähetetty yhdellekään eventille.
+2025-08-02 09:27:43,601 INFO: Ohjelma käynnistyi
+2025-08-02 09:27:43,601 INFO: Baselinessa 133 eventtiä
+2025-08-02 09:27:57,792 INFO: Noudettu 133 tapahtumaa
+2025-08-02 09:27:57,792 INFO: Notifikaatio: 19429241 open False→True tai registered 0→2, viesti lähetetään: Nimenhuuto-eventtiin “Tarkkuusammunta ·.22 Tikkurila 2025-08-17” voi nyt ilmoittautua!
+2025-08-02 09:27:58,799 INFO: Viestin lähetys onnistui eventille 19429241
+2025-08-02 09:27:58,800 INFO: Tallennettu päivitetty baseline base_events.json. Status-muuttuneita eventtejä: 1. Poistettu 0 vanhaa eventtiä. Lisättyjä uusia eventtejä: 0.
+2025-08-02 09:27:58,800 INFO: Lähetettyjä notifikaatioita: 1 kpl.

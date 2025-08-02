@@ -179,9 +179,9 @@
     "id": "19429241",
     "name": "Tarkkuusammunta ·.22 Tikkurila",
     "date": "2025-08-17",
-    "registered": 0,
-    "capacity": 0,
-    "open": false
+    "registered": 2,
+    "capacity": 10,
+    "open": true
   },
   {
     "id": "19429263",
